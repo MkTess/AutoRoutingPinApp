@@ -1,6 +1,6 @@
 # AutoRoutingPinsApp
 
-![image](https://github.com/MkTess/AutoRoutingPinsApp/assets/44899752/b2b891d7-f771-47a7-af5e-4ee468ed62f2)
+![image](https://github.com/MkTess/AutoRoutingPinApp/assets/44899752/2212fa0f-65d6-4c9f-9767-baecde60ab04)
 
 This application is a personal passion project, born from a fascination with the complexities of Printed Circuit Board (PCB) design. It's a conceptual tool that mimics the challenges of automatic pin routing on circuit boards, offering a unique blend of problem-solving and creativity. Here's what makes this project special:
 
